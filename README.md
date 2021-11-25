@@ -6,7 +6,7 @@
 
 ---
 
-![carlos55ml's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos55ml&show_icons=true&hide_border=true)
+![carlos55ml's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos55ml&show_icons=true&hide_border=true&theme=onedark)
 
 <!---
 carlos55ml/carlos55ml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
