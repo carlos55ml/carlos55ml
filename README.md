@@ -1,12 +1,12 @@
 <h2 align="center">Carlos Moran</h2>
-<h3 align="center">Web developer | Full Stack </h3>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center"><a target="_blank" href="https://buymeacoffee.com/carlos55ml"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
 <a target="_blank" href="https://instagram.com/carlos55ml"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="45" height="45"/></a>
 <a target="_blank" href="https://linkedin.com/in/carlos-alberto-moran-lozano-2076a3186"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="45" height="45"/></a>
-<a target="_blank" href="mailto:cmoranlozano55@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="45" height="45"/></a>
+<a target="_blank" href="mailto:contact@carlosmoran.dev"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="45" height="45"/></a>
 </p>
 
 #### About Me:
@@ -29,7 +29,12 @@ Hobbies: ["Deporte", "Videojuegos", "Lectura"]
 ```
 
 #### Mis Proyectos
-- WIP
+- [Porfolio (carlosmoran.dev)](https://carlosmoran.dev)
+- [Gestor de suscripciones](https://subtrack-c55ml.vercel.app/)
+- [Gym Landing Page](https://famous-pasca-0f72ee.netlify.app/)
+- [Simple Weather App](https://carlos-simple-weather.vercel.app/)
+- [LookCarNice.com](https://lookcarnice.com/)
+- [Generador IA de excusas elegantes](https://elegantexcuses.vercel.app/)
 
 #### Algunas de las tecnologias que trabajo
 
